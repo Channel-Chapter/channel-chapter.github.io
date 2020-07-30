@@ -68,6 +68,11 @@ Material apresentado por **Maxwell de Albuquerque**
 ### Eduardo G. Silva
 	1. Por que scrum não funciona?
 	2. Jira Geralzão 
+	
+### Fá Frazao
+	1. Como apresentar ideias ou projetos para negócios
+	2. UX para Devs - Conceito e Mão na Massa
+	3. UX Writing e Tech Writing, mais amigos: friends	
 
 ### Outros
 	01. Git & Git Flow
@@ -90,3 +95,4 @@ Material apresentado por **Maxwell de Albuquerque**
 	20. JWT
 	21. Kafka
 	22. RabbitMQ
+
