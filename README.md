@@ -4,25 +4,14 @@ Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetu
 
 ---
 
-## Channel-Chapter 01 - TDD: Baby Steps
-### Dia 30/03/2020
+## Channel-Chapter 04 - Pipeline de Middlewares com ASP .NET Core
+### Dia 05/08/2020
 
-Material apresentado por **Maxwell de Albuquerque**
+Material apresentado por **Gabriel Vicente Moreira Da Silva**
 
-[Link para apresentação](https://youtu.be/RddTM2ff9lA).
+Link para apresentação - Em breve
 
-[Link para github](https://github.com/channel-chapter/chapter-01-tdd-baby-steps)
-
----
-
-## Channel-Chapter 02 - Ferramentas para testes (Parte 01)
-### Dia 13/04/2020
-
-Material apresentado por **Alex Sander Rodrigues de Oliveira**
-
-[Link para apresentação](https://youtu.be/WBYmD-bZ3IY)
-
-[Link para github](https://github.com/channel-chapter/chapter-02-ferramentas-testes)
+Link para github - Em breve
 
 ---
 
@@ -37,14 +26,25 @@ Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
 ---
 
-## Channel-Chapter 04 - Pipeline de Middlewares com ASP .NET Core
-### Dia 05/08/2020
+## Channel-Chapter 02 - Ferramentas para testes (Parte 01)
+### Dia 13/04/2020
 
-Material apresentado por **Gabriel Vicente Moreira Da Silva**
+Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
-Link para apresentação - Em breve
+[Link para apresentação](https://youtu.be/WBYmD-bZ3IY)
 
-Link para github - Em breve
+[Link para github](https://github.com/channel-chapter/chapter-02-ferramentas-testes)
+
+---
+
+## Channel-Chapter 01 - TDD: Baby Steps
+### Dia 30/03/2020
+
+Material apresentado por **Maxwell de Albuquerque**
+
+[Link para apresentação](https://youtu.be/RddTM2ff9lA).
+
+[Link para github](https://github.com/channel-chapter/chapter-01-tdd-baby-steps)
 
 ---
 
