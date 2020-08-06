@@ -1,50 +1,52 @@
-## Bem vindo ao Channel Chapter
+## Bem vindo ao Chapter Channel
 
 Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetups'
 
 ---
 
-## Channel-Chapter 04 - Pipeline de Middlewares com ASP .NET Core
+## Chapter 04 - Pipeline de Middlewares com ASP .NET Core
 ### Dia 05/08/2020
 
 Material apresentado por **Gabriel Vicente Moreira Da Silva**
 
-Link para apresentação - Em breve
+[Link para Apresentação](https://github.com/Channel-Chapter/chapter-04-pipeline-middlewares/blob/master/Apresenta%C3%A7%C3%A3o/Pipeline_Middlewares_ASP_NET_Core_Gabriel_Moreira.pptx)
 
-Link para github - Em breve
+[Link para vídeo](https://youtu.be/CbpnKLzt5Vo)
+
+[Link para código](https://github.com/Channel-Chapter/chapter-04-pipeline-middlewares)
 
 ---
 
-## Channel-Chapter 03 - Ferramentas para testes (Parte 02)
+## Chapter 03 - Ferramentas para testes (Parte 02)
 ### Dia 15/04/2020
 
 Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
-[Link para apresentação](https://youtu.be/z87hEuv4628)
+[Link para vídeo](https://youtu.be/z87hEuv4628)
 
-[Link para github](https://github.com/channel-chapter/chapter-03-ferramentas-testes-p2)
+[Link para código](https://github.com/channel-chapter/chapter-03-ferramentas-testes-p2)
 
 ---
 
-## Channel-Chapter 02 - Ferramentas para testes (Parte 01)
+## Chapter 02 - Ferramentas para testes (Parte 01)
 ### Dia 13/04/2020
 
 Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
-[Link para apresentação](https://youtu.be/WBYmD-bZ3IY)
+[Link para vídeo](https://youtu.be/WBYmD-bZ3IY)
 
-[Link para github](https://github.com/channel-chapter/chapter-02-ferramentas-testes)
+[Link para código](https://github.com/channel-chapter/chapter-02-ferramentas-testes)
 
 ---
 
-## Channel-Chapter 01 - TDD: Baby Steps
+## Chapter 01 - TDD: Baby Steps
 ### Dia 30/03/2020
 
 Material apresentado por **Maxwell de Albuquerque**
 
-[Link para apresentação](https://youtu.be/RddTM2ff9lA).
+[Link para vídeo](https://youtu.be/RddTM2ff9lA).
 
-[Link para github](https://github.com/channel-chapter/chapter-01-tdd-baby-steps)
+[Link para código](https://github.com/channel-chapter/chapter-01-tdd-baby-steps)
 
 ---
 
@@ -53,6 +55,7 @@ Material apresentado por **Maxwell de Albuquerque**
 ### Gabriel V. M. Silva
 	1. CRQS + Event Sourcing
 	2. GraphQL
+	3. Linguagem Markdown
 	
 ### Tiago P. Alves
 	1. Organização financeira e Investimentos
