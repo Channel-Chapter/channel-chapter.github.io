@@ -4,7 +4,7 @@ Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetu
 
 ---
 
-## Chapter 06 - Git/Git Flow
+## Chapter 05 - Git/Git Flow
 ### Dia 10/09/2020
 
 Material apresentado por **Gabriel Vicente Moreira Da Silva**
