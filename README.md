@@ -4,6 +4,17 @@ Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetu
 
 ---
 
+## Chapter 06 - Git/Git Flow
+### Dia 10/09/2020
+
+Material apresentado por **Gabriel Vicente Moreira Da Silva**
+
+Link para Apresentação - Em Breve
+
+Link para Apresentação - Em Breve
+
+---
+
 ## Chapter 04 - Pipeline de Middlewares com ASP .NET Core
 ### Dia 05/08/2020
 
