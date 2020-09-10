@@ -4,14 +4,14 @@ Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetu
 
 ---
 
-## Chapter 05 - Git/Git Flow
+## Chapter 05 - Git-Flow
 ### Dia 10/09/2020 das 18:00 até 19:00
 
 Material apresentado por **Gabriel Vicente Moreira Da Silva**
 
-Link para Apresentação - Em Breve
+[Link para Apresentação](https://github.com/Channel-Chapter/chapter-05-git-flow/blob/master/Chapter%20-%20Git%20Flow.pptx)
 
-Link para Apresentação - Em Breve
+Link para Vídeo - Em Breve
 
 ---
 
