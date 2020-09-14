@@ -11,7 +11,7 @@ Material apresentado por **Gabriel Vicente Moreira Da Silva**
 
 [Link para Apresentação](https://github.com/Channel-Chapter/chapter-05-git-flow/blob/master/Chapter%20-%20Git%20Flow.pptx)
 
-Link para Vídeo - Em Breve
+[Link para vídeo](https://youtu.be/gkQbHG457DI)
 
 ---
 
